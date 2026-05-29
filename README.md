@@ -12,6 +12,7 @@ while(alive){
 
 ## About Me
 
+> Turning repetitive tasks into intelligent automation ⚡
 💻 RPA Developer passionate about automation and software development.
 
 🎓 Degrees:
