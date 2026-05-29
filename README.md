@@ -32,6 +32,20 @@ while(alive){
 - English
 - Spanish
 
+## Currently Building 🚀
+
+- RPA automations with UiPath
+- Backend studies with Java
+- Software architecture knowledge
+- SQL and database optimization
+
+## Career Goals 🎯
+
+- Grow into a Mid-Level Software Engineer
+- Deepen Backend Knowledge
+- Build scalable systems
+- Improve software architecture skills
+  
 📚 Currently learning:
 - Backend Development
 - Software Architecture
