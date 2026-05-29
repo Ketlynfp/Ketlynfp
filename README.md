@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=9D4EDD&width=600&lines=RPA+Developer;Automation+%7C+Backend+%7C+Software+Architecture;UiPath+%7C+SQL+Server+%7C+Java+%7C+Python;Always+learning%2C+always+evolving)](https://git.io/typing-svg)
 
+<img src="https://komarev.com/ghpvc/?username=Ketlynfp&label=Profile%20views&color=9D4EDD&style=flat" alt="Profile views" />
+
 ```java
 while(alive){
     learn();
