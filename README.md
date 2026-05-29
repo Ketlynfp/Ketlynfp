@@ -32,11 +32,20 @@ while(alive){
 📚 Currently learning:
 - Backend Development
 - Software Architecture
-- Advanced Programming Concepts
+- System Design
 
 ---
 
-# Tech Stack
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ketlyn-fernandes-756840284)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ketlyn.fpch@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](#)
+
+---
+
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
@@ -48,12 +57,18 @@ while(alive){
 
 ---
 
-# GitHub Stats
+## GitHub Stats
 
-![Ketlyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketlynfp&show_icons=true&theme=tokyonight)
+![Ketlyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ketlynfp&show_icons=true&theme=tokyonight)
 
 ---
 
-# Most Used Languages
+## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ketlynfp&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketlynfp&layout=compact&theme=tokyonight)
+
+---
+
+## Contribution Snake
+
+![snake gif](https://github.com/Ketlynfp/Ketlynfp/blob/output/github-contribution-grid-snake-dark.svg)
